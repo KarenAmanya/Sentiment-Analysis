@@ -6,10 +6,10 @@ import pandas as pd
 import json
 
 consumer_key='qplZal1EsUJMnzP1XKGOBWq5D'
-consumer_secret_key='vFTDMpAKaytsv1RNTZrNQtVHaiwE1CQjQXL5g3cgAhYrhRpkXZ'
-Bearer_token='AAAAAAAAAAAAAAAAAAAAAJcCaQEAAAAAPte8oxsY5KoBNZQ5XPR7y%2BRPrd0%3DpvGUPzr3tvB36EZwnlNh33e2E4csVvIthC9lx17dxGVjWyRkH2'
-access_token='918508291063500800-DofaNMZVlgdSmnvTOTI2igBPNi049XZ'
-access_token_secret='ErzZCL3CQoHxzDlDqqz1yZuv4hCuuSPY1xCcJ75c9kn2W'
+consumer_secret_key=''
+Bearer_token=''
+access_token=''
+access_token_secret=''
 
 callback_uri='oob'
 #To create the authentication object
