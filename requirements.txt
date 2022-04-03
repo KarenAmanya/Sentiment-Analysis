@@ -1,0 +1,6 @@
+click-8.1.1-py3-none-any.whl
+colorama-0.4.4-py2.py3-none-any.whl
+joblib-1.1.0-py2.py3-none-any.whl
+nltk-3.7-py3-none-any.whl
+regex-2022.3.15-cp310-cp310-win_amd64.whl
+tqdm-4.63.1-py2.py3-none-any.whl
