@@ -4,7 +4,7 @@ import json
 
 
 try:
-    conn=psycopg2.connect(dbname='Test',user='postgres', password='2006',port=5432)#establish connection with db
+    conn=psycopg2.connect(dbname='',user='', password='',port=5432)#establish connection with db
     cursor=conn.cursor()
 
     create_script=""" CREATE TABLE IF NOT EXISTS coopbanktweets (
