@@ -3,10 +3,10 @@ A sentiment analysis of a Kenyan bank using tweets. The tweets were sourced usin
 
 ### Objective 1:To find out the overall sentiment of the bank's customer's based on their tweets.
 
-1. Irrelevant tweets accounted for the larger percentage, these are tweets meant for advertisemnt purposes and were not specifically directed at the bank.
+1. Irrelevant tweets accounted for the larger percentage, these are tweets meant for advertisement purposes and were not specifically directed at the bank.
 2. Negative tweets were the second larget group
 3. Requests and inquiries came third, these are tweets requesting the bank admin to respond or questions regarding the banks services.
-4. Positive tweets came last with suggestions which I had to exclude from the analysisas the model would not take in a category with only one observation.
+4. Positive tweets came last with suggestions which I had to exclude from the analysis as the model would not take in a category with only one observation.
 
 ![Overall_categories](https://user-images.githubusercontent.com/90700143/161418549-6203c118-e4a7-49c3-aad4-72b94eed94bb.png)
 
